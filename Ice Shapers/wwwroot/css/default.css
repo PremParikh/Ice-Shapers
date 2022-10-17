@@ -1,0 +1,6 @@
+﻿*, ::after, ::before {
+    box-sizing: border-box;
+    background-color: darkgrey;
+    font-style: italic;
+    font-family: sans-serif;
+}
